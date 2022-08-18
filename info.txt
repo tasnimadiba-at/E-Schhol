@@ -1,0 +1,56 @@
+figma
+file-
+link-
+
+asset-
+font
+logo
+icon
+img
+
+section-6
+layout
+
+code comenting
+semantic
+reuse -block
+css 
+seo - h1-h6 
+		p
+		em
+		strong
+		alt, name
+		meta tag
+speed
+
+validation
+
+font-family: 'Rubik';
+font-weight: 700;
+
+font-family: 'Poppins';
+font-weight: 400;500;700;
+
+font-family: 'Roboto';
+font-weight: 400;
+
+common
+	button -hover, text
+	change- width, height
+
+	font-family- pop
+	siz-16px
+	weight-400
+
+color- 
+	green- #21B573
+	black- #000000
+	orange- #FD511A
+	white-  #ffffff
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+xxl-xl-lg     md      sm-col
+h1 48-44       35,     
